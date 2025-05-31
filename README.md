@@ -13,6 +13,7 @@ This project is a simple Python-based file transfer system using a client/server
      ```
 
    - By default, the server listens on `127.0.0.1:65432`.
+   - Files available to the client are held in a folder called ServerFS which should be in the same directory as the python scripts.
 
 2. **Start the Client**:
 
@@ -23,6 +24,7 @@ This project is a simple Python-based file transfer system using a client/server
      ```
 
    - The client provides a Textual-based terminal UI to browse local/server files, upload to server, and download from server.
+   - Files can be uploaded from anywhere on the computer but will be downloded into a folder called `ClientFS` and should be in the same directory as the python scripts
 
 ## Purpose
 
