@@ -1,0 +1,35 @@
+[2m2025-03-16T07:11:07.064994Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-16T07:11:11.484969Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-16T07:11:13.920437Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-17T03:39:05.610660Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[23].commands: unrecognized subcommand
+ at line 250 column 15
+[2m2025-03-17T14:25:03.862416Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-17T14:25:08.198337Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-17T14:25:10.110447Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-18T02:11:38.668932Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Access is denied. (0x80070005)
+[2m2025-03-27T16:34:52.371331Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-27T16:34:55.654893Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-27T16:34:57.237612Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-30T04:35:23.600397Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T21:14:52.380514Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T21:22:41.005596Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-04-02T03:00:27.719138Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\Program Files\Zen Browser\zen.exe"'.
+[2m2025-04-02T03:01:22.139739Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command '\"C:\Program Files\Zen Browser\zen.exe\"'.
+[2m2025-04-06T02:14:15.493392Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1]: missing field `match` at line 154 column 5
+[2m2025-04-06T02:14:43.890259Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 155 column 7, while parsing a block mapping at line 154 column 5
+[2m2025-04-08T21:14:57.375567Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-08T21:15:02.686141Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-21T03:20:53.335991Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 272 column 17, while parsing a flow sequence at line 271 column 15
+[2m2025-04-24T02:31:03.623360Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'alacritty'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-04-24T02:32:12.002380Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Program Files\Alacritty'.
+[2m2025-04-26T19:41:29.825154Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-04-28T21:21:36.967047Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 154 column 49, while parsing a flow sequence at line 154 column 23
+[2m2025-04-30T00:37:32.112423Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 154 column 7, while parsing a block mapping at line 153 column 5
+[2m2025-05-04T05:15:48.860807Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-08T00:17:33.350575Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-05-08T00:17:45.823049Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-05-08T00:46:51.673840Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-17T18:06:13.275415Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-05-20T01:01:03.576475Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.

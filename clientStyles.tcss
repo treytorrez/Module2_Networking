@@ -1,0 +1,28 @@
+#files {
+    grid-size: 2;
+    height: 80vh;
+}
+#buttons {
+    height: 15vh;    
+}
+
+
+Button {
+    width: 50%;
+    height: 100%;
+}
+DirectoryTree, Button, Tree {
+    border: round gray;
+}
+Label {
+    background: $panel-lighten-3;
+    color: $secondary-darken-3;
+    width: 100%;
+    border: round $secondary-darken-3;
+    text-style: bold;
+    }
+
+Button:focus ,Tree:focus, DirectoryTree:focus {
+    background-tint: blue 10%;
+    border: round blue ;
+}
