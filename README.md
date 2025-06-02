@@ -32,7 +32,7 @@ This software was written to provide a hands-on demonstration of Python network 
 
 ## Demo Video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=6UR7szZz-ns)
 
 # Network Communication
 

@@ -8,6 +8,8 @@ from textual.widgets import DirectoryTree, Footer, Header, Button, Label, Tree
 directory = dict[str, 'directory | None']
 
 
+HOST, PORT = "127.0.0.1", 65432
+
 class ButtonGroup(txc.HorizontalGroup):
     def compose(self) -> ComposeResult:
         yield Button("Download", id="dl")
@@ -46,7 +48,7 @@ class ClientGUI(App[None]):
 
     def __init__(self):
         super().__init__()
-        self.client = Client(host="127.0.0.1", port=65432)
+        self.client = Client(host=HOST, port=PORT)
         self.sfb:ServerFileBrowser = ServerFileBrowser(client=self.client)
 
     def compose(self) -> ComposeResult:
